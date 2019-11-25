@@ -1,0 +1,55 @@
+<body	 {
+
+	width: 1300;
+	height: 1300;
+
+}
+
+nav a:hover{
+
+border: 2px solid black;
+}
+
+a{
+	text-decoration: none;
+}
+
+# {
+
+	border-radius: 50%;
+	width: 200;
+	height: 200;
+}
+
+ #dennis {
+
+border-radius: 50%;
+width: 200px;
+height: 200px;
+
+
+ }
+
+ 
+nav a
+{
+
+
+     padding: 5px 5px 5px 5px;
+     color:black;
+     border:white 2px solid;
+     text-decoration: none;
+     }
+     nav a:hover{
+     	border: 3px black solid;
+
+     }
+     nav {
+          
+          position: fixed;
+          background-color: white;
+          top: 0;
+          width: 100%
+  
+
+     }
